@@ -1,0 +1,1 @@
+# repo-strutcure-example
